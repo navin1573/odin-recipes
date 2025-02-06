@@ -1,3 +1,1 @@
-# Odin-Recipes
-This website will showcase some the popular **tamil** food recipes.
-
+This website will showcase some of the popular **tamil** food recipes.
